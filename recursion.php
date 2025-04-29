@@ -6,4 +6,4 @@ function factorial($n) {
     return $n * factorial($n - 1);
 }
 
-echo factorial(8);  
+echo factorial(6);  
